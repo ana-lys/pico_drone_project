@@ -1,3 +1,0 @@
-/home/analys/nuttxspace/pico-i2c-dma/build/pioasm/CMakeFiles/pioasm.dir
-/home/analys/nuttxspace/pico-i2c-dma/build/pioasm/CMakeFiles/edit_cache.dir
-/home/analys/nuttxspace/pico-i2c-dma/build/pioasm/CMakeFiles/rebuild_cache.dir
