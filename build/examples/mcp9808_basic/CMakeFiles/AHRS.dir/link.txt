@@ -1,0 +1,2 @@
+/usr/bin/arm-none-eabi-ar qc libAHRS.a CMakeFiles/AHRS.dir/MahonyAHRS.c.obj
+/usr/bin/arm-none-eabi-ranlib libAHRS.a
