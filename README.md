@@ -1,17 +1,13 @@
 # pico-drone 
 
-proccessor: pi pico 
-os : freertos
-sensor : mpu6050 , vl53xl1x
+- [proccessor: pi pico] 
+- [os : freertos]
+- [sensor : mpu6050 , vl53xl1x]
 
 
 ## Contents
 
 - [Installation](#installation)
-- [Usage](#usage)
-- [Examples](#examples)
-- [API](#examples)
-
 
 ## Installation
 
